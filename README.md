@@ -1,3 +1,3 @@
 # LearningSwiftPackageManager
 
-A description of this package.
+A sample package for SPM educational purposes only.
